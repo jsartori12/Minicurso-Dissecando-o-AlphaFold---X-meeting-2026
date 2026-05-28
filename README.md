@@ -22,7 +22,7 @@
 
 **AlphaFold 3 Server** — acesso gratuito pelo navegador, sem instalação.
 
-🔗 [alphafold3.google.com](https://alphafold3.google.com)
+🔗 [Alphafold3 Server](https://alphafoldserver.com)
 
 > Você precisará de uma conta Google para acessar.
 
