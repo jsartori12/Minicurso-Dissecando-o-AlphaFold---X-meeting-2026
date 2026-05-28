@@ -28,7 +28,13 @@
 
 ---
 
+## Sequências
 
+As sequências de todos os casos estão na pasta [`Sequencias/`](Sequencias/).
+
+Submeta cada sequência no servidor do AF3.
+
+---
 
 ## Referências
 
