@@ -8,11 +8,11 @@
 
 **Três casos, três tipos de limitação:**
 
-| Caso | Sistema 
-|------|---------|-------------------|
-| 1 | Ubiquitin associated domain (UBA)
+| Caso | Sistema |
+|------|---------|
+| 1 | Ubiquitin associated domain (UBA) |
 | 2 | Complexo anticorpo–antígeno (anti-RBD de Sars-Cov-2) 
-| 3 | Sa1–a
+| 3 | Sa1–a |
 
 ---
 
@@ -41,8 +41,6 @@ Os casos desta prática são baseados nos seguintes trabalhos:
 
 ## Créditos
 
-Material desenvolvido para o minicurso **"Predição de estruturas proteicas: potencial e limitações do AlphaFold"**.  
-Dúvidas? Abra uma [issue](../../issues) neste repositório.
 
 ---
 
