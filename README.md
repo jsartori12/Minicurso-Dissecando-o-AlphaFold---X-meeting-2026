@@ -1,4 +1,4 @@
-# Minicurso: Limitações do AlphaFold na Predição de Estruturas Proteicas
+# Minicurso: Dissecando o Alphafold
 
 > Material prático desenvolvido para acompanhar a aula teórica sobre AlphaFold.  
 
