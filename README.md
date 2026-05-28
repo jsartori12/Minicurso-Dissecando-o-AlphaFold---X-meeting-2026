@@ -13,6 +13,8 @@
 | 1 | Ubiquitin associated domain (UBA) |
 | 2 | Complexo anticorpo–antígeno (anti-RBD de Sars-Cov-2) 
 | 3 | Sa1–a |
+| 4 | ScFv (fragmento de anticorpo) |
+| 5 | Anidrase carbônica + cofator |
 
 ---
 
